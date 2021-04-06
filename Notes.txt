@@ -1,0 +1,6 @@
+npx create-react-app firstpwa --template cra-template-pwa
+index cambiar register l18
+sudo npm install serve -g
+npm run build
+
+serve -s build 
